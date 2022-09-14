@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kqj+NcPk+z+qHENnNuueGmSrQdBf8hCOg7aR3zOpaH451YJvokI9gYry7YjTkh2H19iloo++pSSJNxy4cBJbGA==",
+  "success": true,
+  "projectFilePath": "/home/lisbethjimenez/fp-tareas/Tarea5/Tarea5.csproj",
+  "expectedPackageFiles": [
+    "/home/lisbethjimenez/.nuget/packages/cliwrap/3.4.4/cliwrap.3.4.4.nupkg.sha512",
+    "/home/lisbethjimenez/.nuget/packages/newtonsoft.json/13.0.2-beta1/newtonsoft.json.13.0.2-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}

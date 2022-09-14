@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tarea5/1.0.0": {
+        "dependencies": {
+          "CliWrap": "3.4.4",
+          "Newtonsoft.Json": "13.0.2-beta1"
+        },
+        "runtime": {
+          "Tarea5.dll": {}
+        }
+      },
+      "CliWrap/3.4.4": {
+        "runtime": {
+          "lib/netcoreapp3.0/CliWrap.dll": {
+            "assemblyVersion": "3.4.4.0",
+            "fileVersion": "3.4.4.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.2-beta1": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.2.26916"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CliWrap/3.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+lMDilJviKVrrk1vUFpZNYdEYH3aIrVx1t3DRgSOuSKB0JSzxhx2YREL4hXNIAgcHaMi2rXa6UYj8PXcjJCJpQ==",
+      "path": "cliwrap/3.4.4",
+      "hashPath": "cliwrap.3.4.4.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.2-beta1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lrHT3bmqM13QHvgtj2Y30BCRsq6lX07klW5tScx2B7ihqWeG6aVXrHxVALN34+boed9ybVtlRFLOuKD44Xuttg==",
+      "path": "newtonsoft.json/13.0.2-beta1",
+      "hashPath": "newtonsoft.json.13.0.2-beta1.nupkg.sha512"
+    }
+  }
+}
